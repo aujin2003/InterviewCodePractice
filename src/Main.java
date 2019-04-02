@@ -9,7 +9,8 @@ class Main {
             {"K", "A", "F", "B"}
         };
 
-        BoggleBoard bb = new BoggleBoard(board);
-
+        //BoggleBoard bb = new BoggleBoard(board);
+        //Palindrome pd = new Palindrome();
+        PowerSet ps = new PowerSet();
     }
 }
