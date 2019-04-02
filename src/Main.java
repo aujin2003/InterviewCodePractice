@@ -11,6 +11,5 @@ class Main {
 
         //BoggleBoard bb = new BoggleBoard(board);
         //Palindrome pd = new Palindrome();
-        PowerSet ps = new PowerSet();
     }
 }
